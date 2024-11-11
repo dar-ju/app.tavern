@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "1093",
+    "date": "11-11-2024",
+    "price": "80",
+    "image_url": "/upload/iblock/b9c/b9c2a63fe1da9e7a96fe52ad62861fb0.jpeg",
+    "product_name": "Суп Тыквенный с чечевицей (вегетарианский)",
+    "cat": "menu72"
+  },
+  {
+    "id": "1098",
+    "date": "11-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/cf7/cf706faed5c76aee336fcc0fe40125cd.jpeg",
+    "product_name": "Щи Щавелевые с яйцом",
+    "cat": "menu72"
+  },
+  {
+    "id": "1442",
+    "date": "11-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/da1/da1fba85718d738a7d76b02b09d12793.jpeg",
+    "product_name": "Рисовая лапша с говядиной, бульоном и зеленью",
+    "cat": "menu72"
+  },
+  {
+    "id": "5147",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa8/fa849060d0c0202005e490e7c05b24d7.jpeg",
+    "product_name": "Борщ \"Украинский\" с индейкой",
+    "cat": "menu72"
+  },
+  {
+    "id": "1986",
+    "date": "11-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/c7a/c7aef63b1407877c83fff7b38ca3aa46.jpeg",
+    "product_name": "Суп Куриный с вермишелью",
+    "cat": "menu72"
+  },
+  {
+    "id": "1180",
+    "date": "11-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/62c/62c0783a5cc2f6987a187a66c50dff94.jpeg",
+    "product_name": "Каша молочная пшённая с тыквой",
+    "cat": "menu72"
+  },
+  {
+    "id": "1279",
+    "date": "11-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/12e/12eaf1a3396f6f673c210f72c419e70b.jpeg",
+    "product_name": "Гренки из ржаного хлеба с чесноком.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1183",
+    "date": "11-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/22b/22b813b1b52245551fe25e0848d11768.jpeg",
+    "product_name": "Говядина отварная + Кус-кус с морковью (Мини порция)",
+    "cat": "menu74"
+  },
+  {
+    "id": "1555",
+    "date": "11-11-2024",
+    "price": "225",
+    "image_url": "/upload/iblock/5ce/5ce398e262e7b0b71f7177b1dc4d5a83.jpeg",
+    "product_name": "Говядина тушеная с луком",
+    "cat": "menu74"
+  },
+  {
+    "id": "1121",
+    "date": "11-11-2024",
+    "price": "210",
+    "image_url": "/upload/iblock/52c/52c327796493686d048a0a37bbac9162.jpeg",
+    "product_name": "Шницель рубленный из Говядины + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "4978",
+    "date": "11-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/438/4383318b9be463e0fd5dd26edab45672.jpeg",
+    "product_name": "Котлета из говяжьей печени + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1095",
+    "date": "11-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/4a2/4a216533e00caf2fd9f758d919570302.jpeg",
+    "product_name": "Голубцы \"Классические\" (капуста, свинина, говядина, рис, лук, морковь)",
+    "cat": "menu74"
+  },
+  {
+    "id": "2001",
+    "date": "11-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/5aa/5aad79b7270ed9f9a0af51d87bdd9ecf.jpeg",
+    "product_name": "Лапша пшеничная удон со свининой жареной в устричном соусе с  имбирем, кинзой и чесноком",
+    "cat": "menu74"
+  },
+  {
+    "id": "1185",
+    "date": "11-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/b36/b3622111c0db5d3920d807f22d3ce8fa.jpeg",
+    "product_name": "Люля-Кебаб из Свинины + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1174",
+    "date": "11-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/730/7309a230ce29f2262dab1fa9a7812e1b.jpeg",
+    "product_name": "Куриное филе жареное со сладким имбирно-чесночным соусом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1182",
+    "date": "11-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/92e/92ea3393e77644203939407019f1bf3c.jpeg",
+    "product_name": "Котлета \"Пожарская\" из курицы со сливочным маслом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1177",
+    "date": "11-11-2024",
+    "price": "220",
+    "image_url": "/upload/iblock/4ae/4ae9ffafc1282fe5bcfe5a7c8a5d785c.jpeg",
+    "product_name": "Грудка куриная запеченная с грибами, ветчиной, сыром и майонезом + РИС краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "1154",
+    "date": "11-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/da7/da7f852b4d88b166e921c26e9b9483cb.jpeg",
+    "product_name": "Курица тушеная с жареным луком, грибами в сливочном соусе + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "2256",
+    "date": "11-11-2024",
+    "price": "185",
+    "image_url": "/upload/iblock/c8c/c8c8021cb00c1bf3dd5e3d636b3187f8.jpeg",
+    "product_name": "Плов Куриный.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5095",
+    "date": "11-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/178/1780af1d268558f45cd11d817c5d92bc.jpeg",
+    "product_name": "Чахохбили по-грузински из куриных крыльев 4 кусочка + Рис краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "5028",
+    "date": "11-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/cdd/cddc13fd63126f2e836244ff8933c801.jpeg",
+    "product_name": "Котлета из индейки (филе бедра + грудка индейки) + Гречка",
+    "cat": "menu74"
+  },
+  {
+    "id": "1152",
+    "date": "11-11-2024",
+    "price": "220",
+    "image_url": "/upload/iblock/08f/08fdc1fa7437322fb10a7d16ca763970.jpeg",
+    "product_name": "ПАСТА Капеллини с жареной грудкой Индейки + Сливочный соус с песто",
+    "cat": "menu74"
+  },
+  {
+    "id": "5199",
+    "date": "11-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/b45/b4582b411e53a4f90f705d76b7a93be0.jpeg",
+    "product_name": "Котлета из грудки Индейки на пару + РИС БАСМАТИ (мини порция)",
+    "cat": "menu74"
+  },
+  {
+    "id": "2236",
+    "date": "11-11-2024",
+    "price": "260",
+    "image_url": "/upload/iblock/a32/a32ed69d59dda9114f9cfe498724ad6b.jpeg",
+    "product_name": "Филе Горбуши запеченное с луком, морковью, помидором, сыром и майонезом +  Рис краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "5081",
+    "date": "11-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/b33/b33e5c66139b0a3025de619df7419b84.jpeg",
+    "product_name": "Филе Сайды запеченное с майонезом, шпинатом, луком ,морковью и сыром",
+    "cat": "menu74"
+  },
+  {
+    "id": "2319",
+    "date": "11-11-2024",
+    "price": "160",
+    "image_url": "/upload/iblock/040/040fd60bd2de981fb83b097a2cee1ed1.jpeg",
+    "product_name": "Котлета рыбная из филе Минтая + Рис Краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "1191",
+    "date": "11-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf5/cf5100db99c795b952082fb107d69d1b.jpeg",
+    "product_name": "КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1100",
+    "date": "11-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/db0/db088aad6c6bdbefee38ac07a473db8e.jpeg",
+    "product_name": "ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1230",
+    "date": "11-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/6f9/6f90c8b26d1130f679c555fdb8065672.jpeg",
+    "product_name": "Рататуй из кабачков, баклажанов, болгарского перца, репчатого лука и помидоров",
+    "cat": "menu74"
+  },
+  {
+    "id": "5223",
+    "date": "11-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/bbe/bbe38c19e1deb5e9e50c245af186e087.jpeg",
+    "product_name": "РИС БАСМАТИ (пропаренный).",
+    "cat": "menu74"
+  },
+  {
+    "id": "5236",
+    "date": "11-11-2024",
+    "price": "235",
+    "image_url": "/upload/iblock/9d4/9d45e14093205b8cd3d2b0ccf5c5062b.jpeg",
+    "product_name": "Кесадилья с сыром Моцарелла, брынзой, творогом, оливками и шпинатом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1865",
+    "date": "11-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/346/346afdccc547fa0df5e50ac1ab6ccf34.jpeg",
+    "product_name": "Омлет",
+    "cat": "menu74"
+  },
+  {
+    "id": "1240",
+    "date": "11-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/374/3741eac6fe6d63179489bb698acb77ab.jpeg",
+    "product_name": "МАКАРОНЫ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1944",
+    "date": "11-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/928/9288df8c2c36bfd32551b741d83388af.jpeg",
+    "product_name": "Закрытый омлет с начинкой из ветчины и сыра",
+    "cat": "menu74"
+  },
+  {
+    "id": "1518",
+    "date": "11-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/f55/f5597b7cb1245548dfe71aa1e51149ad.jpeg",
+    "product_name": "Сырники творожные (без изюма)",
+    "cat": "menu74"
+  },
+  {
+    "id": "1192",
+    "date": "11-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/181/181bc766dd909ac4585ae9c6c1ec50ff.jpeg",
+    "product_name": "Запеканка творожная со сметаной и сгущенкой",
+    "cat": "menu74"
+  },
+  {
+    "id": "1535",
+    "date": "11-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/593/593831d5866d919bddeae3250600cfbd.jpeg",
+    "product_name": "ГРЕЧКА отварная",
+    "cat": "menu82"
+  },
+  {
+    "id": "1538",
+    "date": "11-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/3d8/3d8cd180d6c6119699adca96226d3986.jpeg",
+    "product_name": "Грудка куриная отварная",
+    "cat": "menu82"
+  },
+  {
+    "id": "1980",
+    "date": "11-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/c07/c07fb494af2adbbdd4291adbab7255c2.jpeg",
+    "product_name": "Биточки из Индейки (филе бедра) на пару.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1846",
+    "date": "11-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/78f/78ff3950e156ac1b24a6271b5b171b8b.jpeg",
+    "product_name": "Сэндвич с в~к колбасой, сыром, салатным листом, маринов. огурцом, помидором,  кетчупом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1398",
+    "date": "11-11-2024",
+    "price": "160",
+    "image_url": "/upload/iblock/9bd/9bd1a0eeaaf169228e398fc22eff376c.jpeg",
+    "product_name": "Салат \"Куриный\"с картофелем \"Пай\" (курица, свежий огурец, салатный лист, яйцо, картофель, майонез)",
+    "cat": "menu76"
+  },
+  {
+    "id": "1158",
+    "date": "11-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/d2e/d2eb54c1931dd52ccbf6ef948e2a1d07.jpeg",
+    "product_name": "Салат слоеный \"Куриный\" (курица, свежий огурец, салатный лист, яйцо, майонез)",
+    "cat": "menu76"
+  },
+  {
+    "id": "5230",
+    "date": "11-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/aa7/aa7df785a01eba7e3180ad22d72ee6f7.jpeg",
+    "product_name": "Салат с красной фасолью, куриной грудкой, морковью, гренками и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1750",
+    "date": "11-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/186/1868df815e800f4a7867035fd7bad943.jpeg",
+    "product_name": "Салат с Рукколой (руккола, салатный лист, помидор, морковь, кедровый орех, соус бальзамик)",
+    "cat": "menu76"
+  },
+  {
+    "id": "4936",
+    "date": "11-11-2024",
+    "price": "115",
+    "image_url": "/upload/iblock/448/44878c140920eab661aab1ff9e35f9c0.jpeg",
+    "product_name": "Салат со шпинатом, свежими овощами (помидоры, огурцы, зелень) и соусом \"Песто\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "1465",
+    "date": "11-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/f4a/f4a5f40653e9cf0aa5f9774120cfed71.jpeg",
+    "product_name": "Студень из Курицы",
+    "cat": "menu76"
+  },
+  {
+    "id": "2204",
+    "date": "11-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/75f/75f5c16a0ca9c47e7b107118d54b27cc.jpeg",
+    "product_name": "Салат с щавелем, картофелем,яйцом, растительным маслом и зеленью",
+    "cat": "menu76"
+  },
+  {
+    "id": "1991",
+    "date": "11-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/74a/74af8c822b9ac6830fbc0d713ec7e7b0.jpeg",
+    "product_name": "Корейский салат с морковью, редькой дайкон, яблоком и соусом \"Ким-Чи\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "4293",
+    "date": "11-11-2024",
+    "price": "80",
+    "image_url": "/upload/iblock/f47/f47c6ff1b07b41636a790734d43abda5.jpeg",
+    "product_name": "Морковь с сыром и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1679",
+    "date": "11-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/0ab/0ab86441504aa448303ece50e687cb6b.jpeg",
+    "product_name": "Салат \"Фунчоза\" (лапша рисовая, свежий огурец, морковь, болгарский перец, раст. масло)",
+    "cat": "menu76"
+  },
+  {
+    "id": "5047",
+    "date": "11-11-2024",
+    "price": "65",
+    "image_url": "/upload/iblock/51e/51e990f424c537334827bd687446bc93.jpeg",
+    "product_name": "Салат из свеклы с яблоком заправленный растительным маслом",
+    "cat": "menu76"
+  },
+  {
+    "id": "2186",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9e3/9e328fd5298124af4ef088549730f902.jpeg",
+    "product_name": "Помидоры с брынзой и белым репчатым луком",
+    "cat": "menu78"
+  },
+  {
+    "id": "1258",
+    "date": "11-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/f46/f46e93147bc74e6d856f9d52e4464c9a.jpeg",
+    "product_name": "Морская капуста с морковью и болгарским перцем",
+    "cat": "menu78"
+  },
+  {
+    "id": "1647",
+    "date": "11-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/3d2/3d28a9e3dbb2c18a289b6619bc0a3e06.jpeg",
+    "product_name": "Салат из свежих овощей (помидоры, огурцы, болгарский перец)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1167",
+    "date": "11-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/566/566a932c39048dc85ef3022422a14af2.jpeg",
+    "product_name": "Салат \"Оливье\" (картофель, морковь, колбаса вареная,  свежий огурец, яйцо, зеленый горошек)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1122",
+    "date": "11-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/d38/d38b507a1ad5b4358e0857999353a599.jpeg",
+    "product_name": "Салат из свежей капусты с морковью, свежим огурцом и болгарским перцем",
+    "cat": "menu78"
+  },
+  {
+    "id": "1125",
+    "date": "11-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/a70/a70e96d043c64dd7efde8074bf0680ab.jpeg",
+    "product_name": "Морковь с яблоком",
+    "cat": "menu78"
+  },
+  {
+    "id": "1146",
+    "date": "11-11-2024",
+    "price": "10",
+    "image_url": "/upload/iblock/85c/85c20271138267c34b232915481209bf.jpeg",
+    "product_name": "Майонез \"СКИТ\" 30 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1172",
+    "date": "11-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/479/479b55985d5f359c58a927da9f2b99f8.jpeg",
+    "product_name": "Майонез \"СКИТ\" 225 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2105",
+    "date": "11-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d5b/d5b311d55b6ef6eeef666fa34dccb5f8.jpeg",
+    "product_name": "Горчица \"Русская\" 100 гр..",
+    "cat": "menu77"
+  },
+  {
+    "id": "1994",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa7/fa74f808bea9e502cc5f52915eae803f.jpeg",
+    "product_name": "Масло подсолнечное рафинированное 500 мл..",
+    "cat": "menu77"
+  },
+  {
+    "id": "5088",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/3c7/3c7e332429c39c2cf2909680acbdff6d.jpeg",
+    "product_name": "Соевый соус классический \"Sen Soy\", 250 мл.",
+    "cat": "menu77"
+  },
+  {
+    "id": "5183",
+    "date": "11-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eea/eea1104abbaa33469b054baaf8e523db.jpeg",
+    "product_name": "Кетчуп \"Heinz\" Томатный, 320 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1143",
+    "date": "11-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/681/6811831792622fa374c8f63c994670eb.jpeg",
+    "product_name": "Кекс с изюмом",
+    "cat": "menu75"
+  },
+  {
+    "id": "2033",
+    "date": "11-11-2024",
+    "price": "65",
+    "image_url": "/upload/iblock/da3/da3bef85351df65f36be7448a5365156.jpeg",
+    "product_name": "Слойка с творогом",
+    "cat": "menu75"
+  },
+  {
+    "id": "1206",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0fe/0fe323e0eb7faaf0d08d73f351876660.jpeg",
+    "product_name": "Корзиночка \"Крем-Брюле\"",
+    "cat": "menu75"
+  },
+  {
+    "id": "1436",
+    "date": "11-11-2024",
+    "price": "115",
+    "image_url": "/upload/iblock/2e4/2e4d0364acfd748cc0d18e00ea37d2db.jpeg",
+    "product_name": "Эклер шоколадный",
+    "cat": "menu75"
+  },
+  {
+    "id": "1412",
+    "date": "11-11-2024",
+    "price": "160",
+    "image_url": "/upload/iblock/09b/09b56a1c9985abad2762cfd4c12a4e53.jpeg",
+    "product_name": "Бисквитно-клубничный рулет (арахисовый бисквит, клубника, взбитые сливки)",
+    "cat": "menu75"
+  },
+  {
+    "id": "5227",
+    "date": "11-11-2024",
+    "price": "230",
+    "image_url": "/upload/iblock/003/003fe4de54c104165f88a8d593a6fddc.jpeg",
+    "product_name": "Круассан с сыром крем-чиз, кетой х~к и рукколой",
+    "cat": "menu75"
+  },
+  {
+    "id": "1241",
+    "date": "11-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/bd7/bd7f17ac76c812494ee0a8abad10ea05.jpeg",
+    "product_name": "Блинчики с бананом, киви и карамелью",
+    "cat": "menu75"
+  },
+  {
+    "id": "1102",
+    "date": "11-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/210/210c0123486aeedbe11ca13453ced576.jpeg",
+    "product_name": "Блинчики с мясом и жареным луком",
+    "cat": "menu75"
+  },
+  {
+    "id": "1096",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/32c/32c8e6b4b0908d7569b6924a085d77a2.jpeg",
+    "product_name": "Кола \"Добрый\" 0,5 л,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1956",
+    "date": "11-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db5/db58b9e13206afd0424022bb120c63a8.jpeg",
+    "product_name": "Сок \"Добрый\" 0,2 л. яблоко",
+    "cat": "menu79"
+  },
+  {
+    "id": "5074",
+    "date": "11-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/9b2/9b2996298b2c1dfd3f31871acfb32686.jpeg",
+    "product_name": "Соль, 180 гр.",
+    "cat": "menu79"
+  },
+  {
+    "id": "1106",
+    "date": "11-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f5d/f5db9ac5751b7892cd08e85dd99d2548.jpeg",
+    "product_name": "Шоколад \"Алёнка\" 20 гр",
+    "cat": "menu79"
+  },
+  {
+    "id": "1114",
+    "date": "11-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/b31/b31d178b04838bcc1da153ee11325aae.jpeg",
+    "product_name": "Вилки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1119",
+    "date": "11-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/d6a/d6a7e81a85c29dab41f0b7326c17a5c9.jpeg",
+    "product_name": "Ложки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2100",
+    "date": "11-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/6eb/6eb2ecd311b43d84315dc7cb1c589139.jpeg",
+    "product_name": "Ножи, 100 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5130",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0d8/0d8608fd6b90507d01738ead6de6c277.jpeg",
+    "product_name": "Вилки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5131",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0ea/0ea96feffd7b19987c827335c6ab4ffc.jpeg",
+    "product_name": "Ложки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5132",
+    "date": "11-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9ed/9ede10ae2d863bb4aa4fea562b23d32d.jpeg",
+    "product_name": "Ножи черные, 50 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1129",
+    "date": "11-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/7d1/7d124f2e33e16f9dccc0ab97aebc90ae.jpeg",
+    "product_name": "Салфетки, 60 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "5187",
+    "date": "11-11-2024",
+    "price": "4",
+    "image_url": "/upload/iblock/1fb/1fba60a69d907c482deca20adf6098d9.jpeg",
+    "product_name": "Хлеб черный 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1804",
+    "date": "11-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/925/925114c0d085ecf15b8727350e7093ce.jpeg",
+    "product_name": "Хлеб черный буханка (нарезанный)",
+    "cat": "menu79"
+  },
+  {
+    "id": "1806",
+    "date": "11-11-2024",
+    "price": "5",
+    "image_url": "/upload/iblock/ba9/ba9d03b2e95b6d9799f8b12cbb9dd137.jpeg",
+    "product_name": "Хлеб белый 1к..,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1803",
+    "date": "11-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/342/342d96c347a251884729233c5d4033a3.jpeg",
+    "product_name": "Хлеб белый батон (нарезанный)",
+    "cat": "menu79"
+  },
+  {
+    "id": "1208",
+    "date": "12-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/305/305ed27a47bb6f828220498af54a53ce.jpeg",
+    "product_name": "Суп Овощной \"Минестрон\" (вегетарианский)",
+    "cat": "menu72"
+  },
+  {
+    "id": "5148",
+    "date": "12-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/82f/82f3cb4d27d07b2658e0e4f882e6657a.jpeg",
+    "product_name": "Суп Харчо с индейкой",
+    "cat": "menu72"
+  },
+  {
+    "id": "1239",
+    "date": "12-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/fc6/fc6552baedf12c332742645cb5928384.jpeg",
+    "product_name": "Щи из свежей капусты с курицей",
+    "cat": "menu72"
+  },
+  {
+    "id": "1215",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/a14/a1414e0471472d1e6f1384d81953242d.jpeg",
+    "product_name": "Солянка рыбная",
+    "cat": "menu72"
+  },
+  {
+    "id": "2782",
+    "date": "12-11-2024",
+    "price": "120",
+    "image_url": "/upload/iblock/136/136422a221a53ad59d894c5f0aa8b169.jpeg",
+    "product_name": "Суп-пюре из шампиньонов",
+    "cat": "menu72"
+  },
+  {
+    "id": "1244",
+    "date": "12-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/738/7389bf97bedff472c535123ff0fe690b.jpeg",
+    "product_name": "Каша молочная рисовая",
+    "cat": "menu72"
+  },
+  {
+    "id": "5247",
+    "date": "12-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/a24/a24456959c9829c69c3c5648bfa52049.jpeg",
+    "product_name": "Гренки из ржаного хлеба с солью",
+    "cat": "menu72"
+  },
+  {
+    "id": "1411",
+    "date": "12-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/d79/d799e82685597557da900b62a419c60a.jpeg",
+    "product_name": "Каша молочная гречневая",
+    "cat": "menu72"
+  },
+  {
+    "id": "5209",
+    "date": "12-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/8c7/8c7bf5023823ac8a74646a207e1e1568.jpeg",
+    "product_name": "Гренки из пшеничного хлеба",
+    "cat": "menu72"
+  },
+  {
+    "id": "1210",
+    "date": "12-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/012/012892bf9a1c40320e2d883f7bc739f5.jpeg",
+    "product_name": "Каша гречневая с тушеной говядиной и овощами",
+    "cat": "menu74"
+  },
+  {
+    "id": "1214",
+    "date": "12-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/aa6/aa6b91545b8640e9543da0f1d4f01adf.jpeg",
+    "product_name": "Тефтели из Говядины в томатном соусе + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1235",
+    "date": "12-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/c65/c65ec676d83ba1fb427f504b8c5759fc.jpeg",
+    "product_name": "Рис жареный с беконом, яйцом и соевым соусом",
+    "cat": "menu74"
+  },
+  {
+    "id": "5129",
+    "date": "12-11-2024",
+    "price": "185",
+    "image_url": "/upload/iblock/84e/84e889dcfc22fdad86260dc3cd1c40dd.jpeg",
+    "product_name": "Котлета рубленная из Свинины + Картофельное пюре",
+    "cat": "menu74"
+  },
+  {
+    "id": "1220",
+    "date": "12-11-2024",
+    "price": "210",
+    "image_url": "/upload/iblock/a76/a76224271c57901d797510ca112755d9.jpeg",
+    "product_name": "ПАСТА Спагетти \"Карбонара\" с беконом",
+    "cat": "menu74"
+  },
+  {
+    "id": "2320",
+    "date": "12-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/49a/49a3da353cf6a0607d3747a9ac17985e.jpeg",
+    "product_name": "Котлета \"Домашняя\" из свинины + Рис Краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "4958",
+    "date": "12-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/39c/39ca8eab2c65296372446cdffcbe5d62.jpeg",
+    "product_name": "Курица (филе окорочка) тушеная в сливочно-соевом соусе + Рис краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "2126",
+    "date": "12-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/0e4/0e419cc91b623a81ee521708c975e741.jpeg",
+    "product_name": "Шницель из куриной грудки + РИС БАСМАТИ с морковью и кукурузой",
+    "cat": "menu74"
+  },
+  {
+    "id": "5078",
+    "date": "12-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/ad6/ad6b8c711b62402d3795008fca1e1af4.jpeg",
+    "product_name": "Грудка куриная запеченная с майонезом, луком, морковью, сыром + Спагетти",
+    "cat": "menu74"
+  },
+  {
+    "id": "5067",
+    "date": "12-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/6ad/6ada7af682e60aa3350530f38b2e87f0.jpeg",
+    "product_name": "Крылья куриные (6 кусочков) жареные.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1219",
+    "date": "12-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/abb/abb95a0907197c270ca831d5d60e4df6.jpeg",
+    "product_name": "Оладьи Куриные",
+    "cat": "menu74"
+  },
+  {
+    "id": "5064",
+    "date": "12-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/d22/d2219f83a3fe72fd63d5ba84596ea0f9.jpeg",
+    "product_name": "Оладьи Куриные + МАКАРОНЫ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5004",
+    "date": "12-11-2024",
+    "price": "255",
+    "image_url": "/upload/iblock/fa1/fa1dee651bf83a66aab9be981f7a6eb9.jpeg",
+    "product_name": "Индейка (Филе бедра) в перечном соусе с болг. перцем, зеленой фасолью и луком + Рис краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "5234",
+    "date": "12-11-2024",
+    "price": "220",
+    "image_url": "/upload/iblock/d94/d947b9e443adeff24fccf1b9abc9e528.jpeg",
+    "product_name": "Индейка с грибами, луком и яйцом запеченная в лаваше",
+    "cat": "menu74"
+  },
+  {
+    "id": "1159",
+    "date": "12-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/5df/5dfb1d77cea99e14849281ef9dd45a05.jpeg",
+    "product_name": "Острые фрикадельки из Индейки под томатно-сметанным соусом + Спагетти \"Капеллини\"",
+    "cat": "menu74"
+  },
+  {
+    "id": "5069",
+    "date": "12-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/691/691468dbbf191e7358de1d4982c5fb24.jpeg",
+    "product_name": "Котлета из Индейки на пару.",
+    "cat": "menu74"
+  },
+  {
+    "id": "2308",
+    "date": "12-11-2024",
+    "price": "160",
+    "image_url": "/upload/iblock/86d/86de98df50bb5a0bf01bf508763a1a11.jpeg",
+    "product_name": "Филе Минтая запеченное под майонезом с помидором, сыром и укропом.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5117",
+    "date": "12-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/007/0074d9ab89745411a227547383f9cb48.jpeg",
+    "product_name": "Котлета рыбная из горбуши + Картофельное Пюре",
+    "cat": "menu74"
+  },
+  {
+    "id": "1232",
+    "date": "12-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/f75/f75fabafb5f5a7c36396ee29ba100756.jpeg",
+    "product_name": "Зраза рыбная фаршированная луком и яйцом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1191",
+    "date": "12-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf5/cf5100db99c795b952082fb107d69d1b.jpeg",
+    "product_name": "КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2324",
+    "date": "12-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/5cd/5cda3182214a2cea48db4db923b9012c.jpeg",
+    "product_name": "РИС КРАСНОДАРСКИЙ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1100",
+    "date": "12-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/db0/db088aad6c6bdbefee38ac07a473db8e.jpeg",
+    "product_name": "ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1247",
+    "date": "12-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/761/7614d502088c485f16732ceae40bf296.jpeg",
+    "product_name": "Котлеты картофельные с жареным луком и грибами",
+    "cat": "menu74"
+  },
+  {
+    "id": "1104",
+    "date": "12-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/057/05754d66103ae96cd35a2df056ff6c68.jpeg",
+    "product_name": "Оладьи из цветной капусты",
+    "cat": "menu74"
+  },
+  {
+    "id": "1252",
+    "date": "12-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/aa1/aa1bc2645e6d23d72283020fd14f4bd1.jpeg",
+    "product_name": "Омлет с помидорами",
+    "cat": "menu74"
+  },
+  {
+    "id": "2176",
+    "date": "12-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/5bf/5bfbb737bf042c364510e3381d434c01.jpeg",
+    "product_name": "Лапша удон с соевым соусом и овощами (болгарский перец, кабачок,лук, морковь, капуста)",
+    "cat": "menu74"
+  },
+  {
+    "id": "1194",
+    "date": "12-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/c9b/c9b6ce5a68d43ce93d9f0dab3b823ca9.jpeg",
+    "product_name": "Запеканка творожная с ежевичным соусом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1966",
+    "date": "12-11-2024",
+    "price": "230",
+    "image_url": "/upload/iblock/405/405d20e593d4d8af6728647899d92b11.jpeg",
+    "product_name": "Говядина (голяшка) тушеная.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1973",
+    "date": "12-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/42d/42dc388c0f01e3c10ad43f1407e6fd38.jpeg",
+    "product_name": "Фрикадельки из грудки Индейки с рисом и шпинатом.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1972",
+    "date": "12-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/bae/bae445715525ec5c180d19730fd57a1d.jpeg",
+    "product_name": "Перловка отварная.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1133",
+    "date": "12-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/c8c/c8c901f6a3c9b123a39140aae6a5790c.jpeg",
+    "product_name": "Сэндвич с куриным филе, салатным листом, маринованным огурцом, помидором, кетчупом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1292",
+    "date": "12-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/8cb/8cb26489bbe7ea08bb6b4d1de6c9c3c5.jpeg",
+    "product_name": "Салат со свеклой, салатным листом, сыром Филадельфия, кедровым орехом, медом и соусом бальзамик",
+    "cat": "menu76"
+  },
+  {
+    "id": "2208",
+    "date": "12-11-2024",
+    "price": "120",
+    "image_url": "/upload/iblock/ec5/ec57610c18f6ef1d55ac9f39331293d5.jpeg",
+    "product_name": "Сельдь под шубой с яйцом",
+    "cat": "menu76"
+  },
+  {
+    "id": "4461",
+    "date": "12-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/2cc/2cc07c2592edfef6d2e9a8e502a3184d.jpeg",
+    "product_name": "Лобио из стручковой фасоли (фасоль стручковая, лук, чеснок, грецкий орех, кинза)",
+    "cat": "menu76"
+  },
+  {
+    "id": "2281",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/935/93528cf86b1112508bfe32e9ad5e271d.jpeg",
+    "product_name": "Салат из соевой спаржи по-корейски с морковью, свежим огурцом и зеленью",
+    "cat": "menu76"
+  },
+  {
+    "id": "2241",
+    "date": "12-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/e64/e641fd4a0b749c2050ea1aa0d309158f.jpeg",
+    "product_name": "Тайский капустный салат",
+    "cat": "menu76"
+  },
+  {
+    "id": "1090",
+    "date": "12-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/261/2611c430cf2d71c485ca833ba778e263.jpeg",
+    "product_name": "Капуста маринованная по-грузински",
+    "cat": "menu76"
+  },
+  {
+    "id": "1223",
+    "date": "12-11-2024",
+    "price": "160",
+    "image_url": "/upload/iblock/b8c/b8ca3e900d21ccb30655d8d5c58423c6.jpeg",
+    "product_name": "Салат \"Греческий\" (огурцы, помидоры, брынза, болгарский перец, маслины, оливки, салатный лист)",
+    "cat": "menu78"
+  },
+  {
+    "id": "5058",
+    "date": "12-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/a57/a574ed024720fd44705164d006db061f.jpeg",
+    "product_name": "Салат зелёный с огурцом, яйцом и зеленью",
+    "cat": "menu78"
+  },
+  {
+    "id": "1738",
+    "date": "12-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/eef/eef29ab770f812cdcedfce7d06305552.jpeg",
+    "product_name": "Салат \"Весенний\" (редис, свежий огурец, салатный лист, яйцо)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1839",
+    "date": "12-11-2024",
+    "price": "80",
+    "image_url": "/upload/iblock/d94/d94e043c9ae058b33c67337a25787077.jpeg",
+    "product_name": "Овощные палочки (морковь, свежий огурец, болгарский перец)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1255",
+    "date": "12-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/9df/9df1a05b869be8cc20cd7873acc3f526.jpeg",
+    "product_name": "Винегрет с маринованным огурцом",
+    "cat": "menu78"
+  },
+  {
+    "id": "1656",
+    "date": "12-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/049/04942f562309830c40bef23231735f9b.jpeg",
+    "product_name": "Морковь с черносливом и курагой",
+    "cat": "menu78"
+  },
+  {
+    "id": "5112",
+    "date": "12-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f25/f25b3871b99e82502d7e59363a321fdb.jpeg",
+    "product_name": "Салат из квашеной капусты",
+    "cat": "menu78"
+  },
+  {
+    "id": "1146",
+    "date": "12-11-2024",
+    "price": "10",
+    "image_url": "/upload/iblock/85c/85c20271138267c34b232915481209bf.jpeg",
+    "product_name": "Майонез \"СКИТ\" 30 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1172",
+    "date": "12-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/479/479b55985d5f359c58a927da9f2b99f8.jpeg",
+    "product_name": "Майонез \"СКИТ\" 225 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2105",
+    "date": "12-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d5b/d5b311d55b6ef6eeef666fa34dccb5f8.jpeg",
+    "product_name": "Горчица \"Русская\" 100 гр..",
+    "cat": "menu77"
+  },
+  {
+    "id": "1994",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa7/fa74f808bea9e502cc5f52915eae803f.jpeg",
+    "product_name": "Масло подсолнечное рафинированное 500 мл..",
+    "cat": "menu77"
+  },
+  {
+    "id": "5088",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/3c7/3c7e332429c39c2cf2909680acbdff6d.jpeg",
+    "product_name": "Соевый соус классический \"Sen Soy\", 250 мл.",
+    "cat": "menu77"
+  },
+  {
+    "id": "5183",
+    "date": "12-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eea/eea1104abbaa33469b054baaf8e523db.jpeg",
+    "product_name": "Кетчуп \"Heinz\" Томатный, 320 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1305",
+    "date": "12-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/dae/dae57033fe6bc727db855b72e7aba90c.jpeg",
+    "product_name": "Кекс ореховый с арахисом",
+    "cat": "menu75"
+  },
+  {
+    "id": "2288",
+    "date": "12-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/626/626c1c3a338cae3862ec795d40d431d0.jpeg",
+    "product_name": "Блинчики с джемом",
+    "cat": "menu75"
+  },
+  {
+    "id": "1410",
+    "date": "12-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/a08/a08f53e9a625cfe0cec754d88c964539.jpeg",
+    "product_name": "Блинчики с вишней и клубникой",
+    "cat": "menu75"
+  },
+  {
+    "id": "1248",
+    "date": "12-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/2e4/2e477d34d3cd60f73cca62af3445ca00.jpeg",
+    "product_name": "Блинчики с курицей, жареным луком, грибами и сливками",
+    "cat": "menu75"
+  },
+  {
+    "id": "1096",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/32c/32c8e6b4b0908d7569b6924a085d77a2.jpeg",
+    "product_name": "Кола \"Добрый\" 0,5 л,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1956",
+    "date": "12-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db5/db58b9e13206afd0424022bb120c63a8.jpeg",
+    "product_name": "Сок \"Добрый\" 0,2 л. яблоко",
+    "cat": "menu79"
+  },
+  {
+    "id": "1106",
+    "date": "12-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f5d/f5db9ac5751b7892cd08e85dd99d2548.jpeg",
+    "product_name": "Шоколад \"Алёнка\" 20 гр",
+    "cat": "menu79"
+  },
+  {
+    "id": "1114",
+    "date": "12-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/b31/b31d178b04838bcc1da153ee11325aae.jpeg",
+    "product_name": "Вилки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1119",
+    "date": "12-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/d6a/d6a7e81a85c29dab41f0b7326c17a5c9.jpeg",
+    "product_name": "Ложки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2100",
+    "date": "12-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/6eb/6eb2ecd311b43d84315dc7cb1c589139.jpeg",
+    "product_name": "Ножи, 100 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5130",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0d8/0d8608fd6b90507d01738ead6de6c277.jpeg",
+    "product_name": "Вилки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5131",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0ea/0ea96feffd7b19987c827335c6ab4ffc.jpeg",
+    "product_name": "Ложки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5132",
+    "date": "12-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9ed/9ede10ae2d863bb4aa4fea562b23d32d.jpeg",
+    "product_name": "Ножи черные, 50 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1129",
+    "date": "12-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/7d1/7d124f2e33e16f9dccc0ab97aebc90ae.jpeg",
+    "product_name": "Салфетки, 60 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "5187",
+    "date": "12-11-2024",
+    "price": "4",
+    "image_url": "/upload/iblock/1fb/1fba60a69d907c482deca20adf6098d9.jpeg",
+    "product_name": "Хлеб черный 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2108",
+    "date": "12-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/d59/d5950f48de300efc71af7e9f19450ec1.jpeg",
+    "product_name": "Хлеб черный буханка (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1128",
+    "date": "12-11-2024",
+    "price": "5",
+    "image_url": "/upload/iblock/587/5871294858e3058bedbc5fab48f0b0b5.jpeg",
+    "product_name": "Хлеб белый 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2109",
+    "date": "12-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/4eb/4ebb4a6c41912b5e79553d816b182170.jpeg",
+    "product_name": "Хлеб белый батон (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1282",
+    "date": "13-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/ae7/ae79e11e21702bb09735eed7138f4cba.jpeg",
+    "product_name": "Суп Овощной с брокколи (вегетарианский)",
+    "cat": "menu72"
+  },
+  {
+    "id": "1299",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/55b/55bd971f52ea1d7468d6ea725f92ae5a.jpeg",
+    "product_name": "Суп Гороховый с говядиной",
+    "cat": "menu72"
+  },
+  {
+    "id": "2158",
+    "date": "13-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/152/1523319622adaf9c1257f948defdbb7a.jpeg",
+    "product_name": "Бульон куриный с курицей",
+    "cat": "menu72"
+  },
+  {
+    "id": "2258",
+    "date": "13-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/1e2/1e2e7a8c36f3bc54ca617c68ba1e10ca.jpeg",
+    "product_name": "Борщ \"Украинский\" с курицей.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1259",
+    "date": "13-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/a7f/a7f5c8fc44bf51e52f615e6540a05625.jpeg",
+    "product_name": "Суп-пюре томатный с сырной гренкой",
+    "cat": "menu72"
+  },
+  {
+    "id": "1291",
+    "date": "13-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/9ce/9ce134bca831dbbd813dd75239566c61.jpeg",
+    "product_name": "Каша молочная геркулесовая",
+    "cat": "menu72"
+  },
+  {
+    "id": "1279",
+    "date": "13-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/12e/12eaf1a3396f6f673c210f72c419e70b.jpeg",
+    "product_name": "Гренки из ржаного хлеба с чесноком.",
+    "cat": "menu72"
+  },
+  {
+    "id": "5209",
+    "date": "13-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/8c7/8c7bf5023823ac8a74646a207e1e1568.jpeg",
+    "product_name": "Гренки из пшеничного хлеба",
+    "cat": "menu72"
+  },
+  {
+    "id": "1296",
+    "date": "13-11-2024",
+    "price": "245",
+    "image_url": "/upload/iblock/845/845c5527f33928853af4122f566f8350.jpeg",
+    "product_name": "Говядина тушеная  с жареным луком, соленым огурцом в томатном соусе + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1295",
+    "date": "13-11-2024",
+    "price": "215",
+    "image_url": "/upload/iblock/4fd/4fde1ebfabea1e1bdf38fdf3f7ada19a.jpeg",
+    "product_name": "Ежики из Говядины с рисом на пару",
+    "cat": "menu74"
+  },
+  {
+    "id": "1873",
+    "date": "13-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/2c6/2c6c33ff47fdf615ea03d300c8626f75.jpeg",
+    "product_name": "Люля-Кебаб из Говядины",
+    "cat": "menu74"
+  },
+  {
+    "id": "2207",
+    "date": "13-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/eda/edade00b8afc030b86a88379ce73a823.jpeg",
+    "product_name": "Спагетти с соусом \"Болоньезе\"",
+    "cat": "menu74"
+  },
+  {
+    "id": "1278",
+    "date": "13-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/14f/14fac304ebdfcbef61aa754ad8b60d8d.jpeg",
+    "product_name": "Пельмени отварные",
+    "cat": "menu74"
+  },
+  {
+    "id": "5062",
+    "date": "13-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/823/823f18620d8b4d40b9c401cef14bfb85.jpeg",
+    "product_name": "Свинина жареная с луком + КАРТОФЕЛЬНОЕ ПЮРЕ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "4088",
+    "date": "13-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/c49/c49785a85c4b281565a794b20fd9ac1e.jpeg",
+    "product_name": "Тефтели из Свинины в томатном соусе + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1298",
+    "date": "13-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/b4c/b4cdccbd57bdcd279b8687532b918561.jpeg",
+    "product_name": "Котлета куриная с сыром + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2199",
+    "date": "13-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/48f/48fff485146307c4b64290cfbefd53f1.jpeg",
+    "product_name": "Кабачки запеченные с фаршем (курица, лук, морковь, кабачок)",
+    "cat": "menu74"
+  },
+  {
+    "id": "2206",
+    "date": "13-11-2024",
+    "price": "230",
+    "image_url": "/upload/iblock/20e/20e848b69b93ddf8fd9673c749e887a5.jpeg",
+    "product_name": "Лапша пшеничная удон с курицей, грибами, яйцом и сладким соусом \"Чили\"",
+    "cat": "menu74"
+  },
+  {
+    "id": "5114",
+    "date": "13-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/2fd/2fd8dda3ee01ec5966593cf6cb7f7e3e.jpeg",
+    "product_name": "Гречневая лапша с куриной грудкой и овощами в соевом соусе.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5200",
+    "date": "13-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/514/5140faf3dc37bc8260c7299b43d56098.jpeg",
+    "product_name": "Грудка куриная запеченная под шпинатно-сливочным соусом и сыром + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1286",
+    "date": "13-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/6f4/6f4e7afea4872f052f3d9a374af2dc63.jpeg",
+    "product_name": "Картофель запеченный с курицей, луком и морковью в алюминиевом контейнере",
+    "cat": "menu74"
+  },
+  {
+    "id": "2217",
+    "date": "13-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/c1c/c1cbdb403b87888191a81b866885cfb0.jpeg",
+    "product_name": "Бедро куриное жареное + СПАГЕТТИ",
+    "cat": "menu74"
+  },
+  {
+    "id": "5116",
+    "date": "13-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/8a0/8a0064f8492d36c19b19a28e94f896f5.jpeg",
+    "product_name": "Крылья куриные 4 кусочка тушёные с луком, морковью в сливочно-томатном соусе + Спагетти Капеллини",
+    "cat": "menu74"
+  },
+  {
+    "id": "5040",
+    "date": "13-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/4ee/4ee5803eb2a9d7e43e2d52274fe70f4d.jpeg",
+    "product_name": "Печень Куриная жареная с луком.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1268",
+    "date": "13-11-2024",
+    "price": "215",
+    "image_url": "/upload/iblock/2e1/2e13748fc8ca061fdb101f209e57a87e.jpeg",
+    "product_name": "Плов из Индейки",
+    "cat": "menu74"
+  },
+  {
+    "id": "1290",
+    "date": "13-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/b2b/b2b253b88ded3e5257bad451f2087911.jpeg",
+    "product_name": "Котлетка из грудки Индейки с кабачком на пару + Перловка с овощами(лук, морковь, кабачок, бол.перец)",
+    "cat": "menu74"
+  },
+  {
+    "id": "4886",
+    "date": "13-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/48c/48c1717d4da70b8cca8a91c497fd7396.jpeg",
+    "product_name": "Филе Горбуши запеченное с луком, морковью и майонезом +  Рис краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "1250",
+    "date": "13-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/e2c/e2c47705ef504a25377744c2e0af4fd5.jpeg",
+    "product_name": "Филе Хека запеченное под маринадом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1191",
+    "date": "13-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf5/cf5100db99c795b952082fb107d69d1b.jpeg",
+    "product_name": "КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "5041",
+    "date": "13-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/7d7/7d77fa42b73fe4c497f5ac6575cda50a.jpeg",
+    "product_name": "Котлета рыбная из филе Сайды + Рис Краснодарский",
+    "cat": "menu74"
+  },
+  {
+    "id": "1100",
+    "date": "13-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/db0/db088aad6c6bdbefee38ac07a473db8e.jpeg",
+    "product_name": "ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "5223",
+    "date": "13-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/bbe/bbe38c19e1deb5e9e50c245af186e087.jpeg",
+    "product_name": "РИС БАСМАТИ (пропаренный).",
+    "cat": "menu74"
+  },
+  {
+    "id": "1240",
+    "date": "13-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/374/3741eac6fe6d63179489bb698acb77ab.jpeg",
+    "product_name": "МАКАРОНЫ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1527",
+    "date": "13-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/0d4/0d45ccf71355dc6495c6d41c3765a1f7.jpeg",
+    "product_name": "Булгур с овощами (морковь, сельдерей, лук репчатый, помидор, кукуруза, зеленый горошек)",
+    "cat": "menu74"
+  },
+  {
+    "id": "1315",
+    "date": "13-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/bf9/bf984e3b22d07c97e90691318ea82c9d.jpeg",
+    "product_name": "Овощи с соевым соусом и кунжутным маслом запеченные в лаваше",
+    "cat": "menu74"
+  },
+  {
+    "id": "5229",
+    "date": "13-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/02c/02c10210f279037eb86d2c332d17b6b1.jpeg",
+    "product_name": "Запеканка творожная.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1536",
+    "date": "13-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/493/4932d1355b613c7f393560d266690bf7.jpeg",
+    "product_name": "РИС БАСМАТИ отварной",
+    "cat": "menu82"
+  },
+  {
+    "id": "1832",
+    "date": "13-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/71e/71e16e5ad3e1b30f0da3585a1a32a242.jpeg",
+    "product_name": "Овощи на пару (брокколи, цветная капуста, морковь).",
+    "cat": "menu82"
+  },
+  {
+    "id": "2290",
+    "date": "13-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/19d/19d2902c505ce780c2947c39d4cad773.jpeg",
+    "product_name": "Биточки рыбные из филе Минтая и Горбуши на пару",
+    "cat": "menu82"
+  },
+  {
+    "id": "2291",
+    "date": "13-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/199/199e4e058bd99486d11e674c1433706c.jpeg",
+    "product_name": "Салат \"Подсолнух\" (курица,грибы шампиньоны, сыр, яйцо, морковь,семечки тыквенные, майонез)",
+    "cat": "menu76"
+  },
+  {
+    "id": "1847",
+    "date": "13-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/fde/fdebffcacbc146806f00602ea116a048.jpeg",
+    "product_name": "Сэндвич с ветчиной, сыром, салатным листом, маринованным огурцом, помидором,  кетчупом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1285",
+    "date": "13-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/f2f/f2f13af84a06effd564a41db5404bee1.jpeg",
+    "product_name": "Студень из говядины",
+    "cat": "menu76"
+  },
+  {
+    "id": "4946",
+    "date": "13-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/0ee/0ee5cd69315ab0b429dea2f7b55027a3.jpeg",
+    "product_name": "Салат с рисом \"Жасмин\", ветчиной, сыром, яйцом и майонезом.",
+    "cat": "menu76"
+  },
+  {
+    "id": "1088",
+    "date": "13-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/3e9/3e9fba151ab80957283a3689eb89adcf.jpeg",
+    "product_name": "Рулетики из ветчины 2 шт (ветчина, сыр, чеснок, майонез, зелень)",
+    "cat": "menu76"
+  },
+  {
+    "id": "5018",
+    "date": "13-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/ded/deddb24a3bebe9aa30dde4b4d4ddcc04.jpeg",
+    "product_name": "Салат с помидором, огурцом, салатом \"Айсберг\", укропом, чесноком и подсолнечным маслом .",
+    "cat": "menu76"
+  },
+  {
+    "id": "1771",
+    "date": "13-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/eea/eea351d5e3de767ed6c3ba18bac97c22.jpeg",
+    "product_name": "Капуста маринованная по-корейски",
+    "cat": "menu76"
+  },
+  {
+    "id": "1311",
+    "date": "13-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/7fb/7fb722a1ec729f5bb236ec1db140fcf5.jpeg",
+    "product_name": "Салат \"Цезарь\" (грудка куриная, помидор, свежий огурец, болгарский перец, салат Айсберг, гренки)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1226",
+    "date": "13-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/0bb/0bb57c760e983f1ff9e2e2e8005a3c37.jpeg",
+    "product_name": "Яйцо с зеленым горошком",
+    "cat": "menu78"
+  },
+  {
+    "id": "1681",
+    "date": "13-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/565/5651c8fc8d8a9d91d6358f4fbf468898.jpeg",
+    "product_name": "Салат из сельдерея с зеленым яблоком, свежим огурцом и семенами кунжута",
+    "cat": "menu78"
+  },
+  {
+    "id": "1502",
+    "date": "13-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/5c4/5c4df78acc83ee2576712e76b01af50a.jpeg",
+    "product_name": "Винегрет с квашеной капустой",
+    "cat": "menu78"
+  },
+  {
+    "id": "1385",
+    "date": "13-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/72a/72a6eefb7c3a56e9e619ded6809403ca.jpeg",
+    "product_name": "Морковь с курагой",
+    "cat": "menu78"
+  },
+  {
+    "id": "1662",
+    "date": "13-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/af7/af7264bc77228ef80ba882237843419d.jpeg",
+    "product_name": "Салат из свежих овощей (помидоры, огурцы, болгарский перец, редис)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1665",
+    "date": "13-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/25f/25fa1038c5791e0f524a3f1d90d004fe.jpeg",
+    "product_name": "Салат из свежей капусты с морковью и свежим огурцом",
+    "cat": "menu78"
+  },
+  {
+    "id": "1297",
+    "date": "13-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf4/cf4ceef38329ecd3973df5bb74ea6425.jpeg",
+    "product_name": "Свекла с соленым огурцом",
+    "cat": "menu78"
+  },
+  {
+    "id": "1146",
+    "date": "13-11-2024",
+    "price": "10",
+    "image_url": "/upload/iblock/85c/85c20271138267c34b232915481209bf.jpeg",
+    "product_name": "Майонез \"СКИТ\" 30 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1172",
+    "date": "13-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/479/479b55985d5f359c58a927da9f2b99f8.jpeg",
+    "product_name": "Майонез \"СКИТ\" 225 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2105",
+    "date": "13-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d5b/d5b311d55b6ef6eeef666fa34dccb5f8.jpeg",
+    "product_name": "Горчица \"Русская\" 100 гр..",
+    "cat": "menu77"
+  },
+  {
+    "id": "1994",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa7/fa74f808bea9e502cc5f52915eae803f.jpeg",
+    "product_name": "Масло подсолнечное рафинированное 500 мл..",
+    "cat": "menu77"
+  },
+  {
+    "id": "5088",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/3c7/3c7e332429c39c2cf2909680acbdff6d.jpeg",
+    "product_name": "Соевый соус классический \"Sen Soy\", 250 мл.",
+    "cat": "menu77"
+  },
+  {
+    "id": "5183",
+    "date": "13-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eea/eea1104abbaa33469b054baaf8e523db.jpeg",
+    "product_name": "Кетчуп \"Heinz\" Томатный, 320 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2166",
+    "date": "13-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/a18/a18d26ff569e5e322932707ad814bdfe.jpeg",
+    "product_name": "Кекс творожно - кокосовый",
+    "cat": "menu75"
+  },
+  {
+    "id": "1262",
+    "date": "13-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/aef/aeffff1fa0ca7d046b6d5fd09b7c4574.jpeg",
+    "product_name": "Блинчики с ягодной начинкой (клубника, черная смородина)",
+    "cat": "menu75"
+  },
+  {
+    "id": "1265",
+    "date": "13-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/6bf/6bf2db232198a8a6a6de730a99568254.jpeg",
+    "product_name": "Блинчики с индейкой, жареным луком и сливками",
+    "cat": "menu75"
+  },
+  {
+    "id": "1857",
+    "date": "13-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/52d/52df0a0eab079ffa889b2fbe48bf7e47.jpeg",
+    "product_name": "Блинчики с яйцом, зеленым луком и майонезом",
+    "cat": "menu75"
+  },
+  {
+    "id": "1096",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/32c/32c8e6b4b0908d7569b6924a085d77a2.jpeg",
+    "product_name": "Кола \"Добрый\" 0,5 л,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1956",
+    "date": "13-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db5/db58b9e13206afd0424022bb120c63a8.jpeg",
+    "product_name": "Сок \"Добрый\" 0,2 л. яблоко",
+    "cat": "menu79"
+  },
+  {
+    "id": "1106",
+    "date": "13-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f5d/f5db9ac5751b7892cd08e85dd99d2548.jpeg",
+    "product_name": "Шоколад \"Алёнка\" 20 гр",
+    "cat": "menu79"
+  },
+  {
+    "id": "1114",
+    "date": "13-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/b31/b31d178b04838bcc1da153ee11325aae.jpeg",
+    "product_name": "Вилки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1119",
+    "date": "13-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/d6a/d6a7e81a85c29dab41f0b7326c17a5c9.jpeg",
+    "product_name": "Ложки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2100",
+    "date": "13-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/6eb/6eb2ecd311b43d84315dc7cb1c589139.jpeg",
+    "product_name": "Ножи, 100 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5130",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0d8/0d8608fd6b90507d01738ead6de6c277.jpeg",
+    "product_name": "Вилки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5131",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0ea/0ea96feffd7b19987c827335c6ab4ffc.jpeg",
+    "product_name": "Ложки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5132",
+    "date": "13-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9ed/9ede10ae2d863bb4aa4fea562b23d32d.jpeg",
+    "product_name": "Ножи черные, 50 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1129",
+    "date": "13-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/7d1/7d124f2e33e16f9dccc0ab97aebc90ae.jpeg",
+    "product_name": "Салфетки, 60 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "5187",
+    "date": "13-11-2024",
+    "price": "4",
+    "image_url": "/upload/iblock/1fb/1fba60a69d907c482deca20adf6098d9.jpeg",
+    "product_name": "Хлеб черный 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2108",
+    "date": "13-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/d59/d5950f48de300efc71af7e9f19450ec1.jpeg",
+    "product_name": "Хлеб черный буханка (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1128",
+    "date": "13-11-2024",
+    "price": "5",
+    "image_url": "/upload/iblock/587/5871294858e3058bedbc5fab48f0b0b5.jpeg",
+    "product_name": "Хлеб белый 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2109",
+    "date": "13-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/4eb/4ebb4a6c41912b5e79553d816b182170.jpeg",
+    "product_name": "Хлеб белый батон (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1321",
+    "date": "14-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/0ab/0abf52ac7993adcd4c779917fdcfa39c.jpeg",
+    "product_name": "Борщ \"Московский\" с фасолью (вегетарианский)",
+    "cat": "menu72"
+  },
+  {
+    "id": "5182",
+    "date": "14-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/efc/efc5573087983bcbd124b7cb76461370.jpeg",
+    "product_name": "Суп Харчо по-грузински с говядиной.",
+    "cat": "menu72"
+  },
+  {
+    "id": "4929",
+    "date": "14-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/61c/61cfb909940985702d793cbe8f907baa.jpeg",
+    "product_name": "Рассольник \"Ленинградский\" с курицей.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1349",
+    "date": "14-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/fc8/fc86e1c4b24922521fd304b6635ee44c.jpeg",
+    "product_name": "Уха из Горбуши с перловкой",
+    "cat": "menu72"
+  },
+  {
+    "id": "5108",
+    "date": "14-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/50e/50ef36a5816abf57f7759031b20e5ef4.jpeg",
+    "product_name": "Суп-пюре из тыквы",
+    "cat": "menu72"
+  },
+  {
+    "id": "2104",
+    "date": "14-11-2024",
+    "price": "80",
+    "image_url": "/upload/iblock/e87/e8714337884f6a477c8696c9d508c3e5.jpeg",
+    "product_name": "Каша молочная пшённая.",
+    "cat": "menu72"
+  },
+  {
+    "id": "5247",
+    "date": "14-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/a24/a24456959c9829c69c3c5648bfa52049.jpeg",
+    "product_name": "Гренки из ржаного хлеба с солью",
+    "cat": "menu72"
+  },
+  {
+    "id": "5209",
+    "date": "14-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/8c7/8c7bf5023823ac8a74646a207e1e1568.jpeg",
+    "product_name": "Гренки из пшеничного хлеба",
+    "cat": "menu72"
+  },
+  {
+    "id": "2251",
+    "date": "14-11-2024",
+    "price": "215",
+    "image_url": "/upload/iblock/677/677dfc45fb3558ffbcb86b9fba0506e9.jpeg",
+    "product_name": "Плов из Говядины.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1322",
+    "date": "14-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/db2/db2e5c7fe8e40df040c0c3c3fbd7e14a.jpeg",
+    "product_name": "Спагетти с говяжьим языком, жареным  луком, грибами со сливочным соусом",
+    "cat": "menu74"
+  },
+  {
+    "id": "5128",
+    "date": "14-11-2024",
+    "price": "205",
+    "image_url": "/upload/iblock/460/460b0c79e7930cbf382044dad065bdad.jpeg",
+    "product_name": "Котлета из Говядины  под соусом \"Бешамель\" + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1333",
+    "date": "14-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/5e2/5e2f0c2af610a6234aef2ede578c3b32.jpeg",
+    "product_name": "Оладьи печеночные",
+    "cat": "menu74"
+  },
+  {
+    "id": "4896",
+    "date": "14-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/f2c/f2c454c12066848c21ddfdba42b8633c.jpeg",
+    "product_name": "Сосиски сливочные \"Останкино\" отварные + КАРТОФЕЛЬНОЕ ПЮРЕ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "4911",
+    "date": "14-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/437/43718e54c8e7898c027390e673cbce21.jpeg",
+    "product_name": "Биточки в томатном соусе (курица, говядина, кабачок, морковь, лук репчатый)  + Гречка.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1440",
+    "date": "14-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/be2/be2c764721482890fc0ccdee95b90399.jpeg",
+    "product_name": "Курица с грибами, луком и яйцом запеченная в лаваше",
+    "cat": "menu74"
+  },
+  {
+    "id": "3632",
+    "date": "14-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/778/778147446a19269d68bbef2fc3dca086.jpeg",
+    "product_name": "Грудка куриная жареная в яйце + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2095",
+    "date": "14-11-2024",
+    "price": "225",
+    "image_url": "/upload/iblock/906/906d262234897fe80bb36efa830406c4.jpeg",
+    "product_name": "Филе куриное в сладком соусе + Рис краснодарский.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5201",
+    "date": "14-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/5b3/5b3bc4ae9c27fdba8d55b84915feba78.jpeg",
+    "product_name": "Бедро куриное тушеное по-китайски + ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "5079",
+    "date": "14-11-2024",
+    "price": "185",
+    "image_url": "/upload/iblock/243/2436a8a0af0a88aaee2e79f161b59c5f.jpeg",
+    "product_name": "Грудка куриная запеченная с майонезом, мар.огурцом, помидором, перцем.болг + Вермишель жаренная",
+    "cat": "menu74"
+  },
+  {
+    "id": "5145",
+    "date": "14-11-2024",
+    "price": "215",
+    "image_url": "/upload/iblock/904/904097cdac538020e5690496a730f6ec.jpeg",
+    "product_name": "Курица \"Кунг-Пао\" (курица, арахис, болг. перец, кинза, соус кисло-сладкий) + Рис краснодарский.",
+    "cat": "menu74"
+  },
+  {
+    "id": "4897",
+    "date": "14-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/11a/11a4981367d367023d37824ec1a0248b.jpeg",
+    "product_name": "Вермишель жареная с луком, морковью и соломкой из куриной грудки.",
+    "cat": "menu74"
+  },
+  {
+    "id": "2253",
+    "date": "14-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/064/06451352f32d5dffa816e8336b6c81d1.jpeg",
+    "product_name": "Тефтели куриные в сливочном соусе + МАКАРОНЫ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5065",
+    "date": "14-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/a1b/a1b53f1495a761866de420cd4d597542.jpeg",
+    "product_name": "Котлета из курицы + МАКАРОНЫ (мини порция).",
+    "cat": "menu74"
+  },
+  {
+    "id": "5059",
+    "date": "14-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/025/025124cd0ba7a906e0481a6ef46d3b6a.jpeg",
+    "product_name": "Биточки куриные на пару.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1889",
+    "date": "14-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/54c/54cfdc36cb0a1f18b4678122cc8edad2.jpeg",
+    "product_name": "Крылья куриные (6 кусочков) (маринованные соевым соусом, чесноком и майонезом) жареные.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1881",
+    "date": "14-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/744/74411c9dab3d6189cc517f7f5573877b.jpeg",
+    "product_name": "Котлета из Индейки с грибами + КАРТОФЕЛЬНОЕ ПЮРЕ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "4898",
+    "date": "14-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/13f/13f5d40814bcea72e60e61faf35820cf.jpeg",
+    "product_name": "Шницель рубленный из Индейки + СПАГЕТТИ тонкие \"Капеллини\".",
+    "cat": "menu74"
+  },
+  {
+    "id": "5233",
+    "date": "14-11-2024",
+    "price": "330",
+    "image_url": "/upload/iblock/8ab/8ab2e191b55ce9093ac0a0c9d727ad68.jpeg",
+    "product_name": "ПАСТА Таглиателли с Семгой, брокколи и сливочным соусом.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1191",
+    "date": "14-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf5/cf5100db99c795b952082fb107d69d1b.jpeg",
+    "product_name": "КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "3846",
+    "date": "14-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/852/852afa52281da705009f4dd96d0b5ebe.jpeg",
+    "product_name": "Филе Сайды жареное в муке",
+    "cat": "menu74"
+  },
+  {
+    "id": "5213",
+    "date": "14-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/685/685563f84f341a4e24e51e6750271d80.jpeg",
+    "product_name": "Котлета Рыбная (паровая).",
+    "cat": "menu74"
+  },
+  {
+    "id": "1100",
+    "date": "14-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/db0/db088aad6c6bdbefee38ac07a473db8e.jpeg",
+    "product_name": "ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "4938",
+    "date": "14-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db1/db19bdca7bc5460deecee36746afb4d3.jpeg",
+    "product_name": "РИС ЖАСМИН",
+    "cat": "menu74"
+  },
+  {
+    "id": "1863",
+    "date": "14-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/f0c/f0c67adbc84cdd31cc18200095e6aeb0.jpeg",
+    "product_name": "Оладьи из кабачков",
+    "cat": "menu74"
+  },
+  {
+    "id": "1760",
+    "date": "14-11-2024",
+    "price": "125",
+    "image_url": "/upload/iblock/545/545fa9af808d72573b1f5170379ea5de.jpeg",
+    "product_name": "Нут с овощами (болгарский перец, морковь, лук, помидор, кинза)",
+    "cat": "menu74"
+  },
+  {
+    "id": "5221",
+    "date": "14-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/d17/d1778ca2ddae3797bfc530db54938f9d.jpeg",
+    "product_name": "Макароны с сыром (молодой пармезан).",
+    "cat": "menu74"
+  },
+  {
+    "id": "1294",
+    "date": "14-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/22b/22b6fd11719e0cadaefa457950ac2ee2.jpeg",
+    "product_name": "Запеканка творожно - тыквенная",
+    "cat": "menu74"
+  },
+  {
+    "id": "2210",
+    "date": "14-11-2024",
+    "price": "410",
+    "image_url": "/upload/iblock/253/253781dba3977eddc6103de8eda36d59.jpeg",
+    "product_name": "Филе Сёмги на пару.",
+    "cat": "menu82"
+  },
+  {
+    "id": "5214",
+    "date": "14-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/c86/c861f5acc689e7bc65d23c5d3bb0cd6c.jpeg",
+    "product_name": "Оладьи Куриные с тыквой и кабачком.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1846",
+    "date": "14-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/78f/78ff3950e156ac1b24a6271b5b171b8b.jpeg",
+    "product_name": "Сэндвич с в~к колбасой, сыром, салатным листом, маринов. огурцом, помидором,  кетчупом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1336",
+    "date": "14-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/77a/77a3cc8b618f3be1b65a67bc911ecf49.jpeg",
+    "product_name": "Язык говяжий отварной",
+    "cat": "menu76"
+  },
+  {
+    "id": "1361",
+    "date": "14-11-2024",
+    "price": "120",
+    "image_url": "/upload/iblock/7f5/7f56a5607141bea2b0cb8f3a543b17fa.jpeg",
+    "product_name": "Салат \"Мимоза\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "1510",
+    "date": "14-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/3c1/3c1cae4a01a0e5ca2c582ed8b58f8818.jpeg",
+    "product_name": "Салат с Фунчозой, крабовыми палочками, свежим огурцом, омлетом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "2220",
+    "date": "14-11-2024",
+    "price": "115",
+    "image_url": "/upload/iblock/422/42285134da4381c6a6c6e31d1d36997d.jpeg",
+    "product_name": "Заливное из Горбуши",
+    "cat": "menu76"
+  },
+  {
+    "id": "4935",
+    "date": "14-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/b3f/b3fd33900193502ee248803fa2616bcc.jpeg",
+    "product_name": "Помидоры с сыром и соусом \"Песто\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "1674",
+    "date": "14-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/6cb/6cbd4158637094b28e43f79d45e35b7c.jpeg",
+    "product_name": "Морковь по-корейски",
+    "cat": "menu76"
+  },
+  {
+    "id": "1326",
+    "date": "14-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/303/303b49a1f9aa431e71b781db6ba9bd33.jpeg",
+    "product_name": "Икра свекольная",
+    "cat": "menu76"
+  },
+  {
+    "id": "4536",
+    "date": "14-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f0c/f0c690bb37b6906b58fe9d7857598a08.jpeg",
+    "product_name": "Свекла с майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1367",
+    "date": "14-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/28b/28bb583cd4803d4317148dfc4686c937.jpeg",
+    "product_name": "Винегрет с сельдью",
+    "cat": "menu78"
+  },
+  {
+    "id": "1497",
+    "date": "14-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/7f4/7f4d13b61ee38196a95a279ad9c0cac6.jpeg",
+    "product_name": "Салат \"Венецианский\" (ветчина, помидоры,свежий огурец, болгарский перец, салатный лист, сыр)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1420",
+    "date": "14-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/11a/11ab6c18ec6dbb9903ee8060e23ee8f1.jpeg",
+    "product_name": "Салат \"Столичный\" (курица, морковь, соленый огурец, картофель, зеленый горошек)",
+    "cat": "menu78"
+  },
+  {
+    "id": "5048",
+    "date": "14-11-2024",
+    "price": "85",
+    "image_url": "/upload/iblock/a40/a400abff8d542a54cf1f14dd5ba9e442.jpeg",
+    "product_name": "Салат зеленый с редисом и яйцом",
+    "cat": "menu78"
+  },
+  {
+    "id": "1647",
+    "date": "14-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/3d2/3d28a9e3dbb2c18a289b6619bc0a3e06.jpeg",
+    "product_name": "Салат из свежих овощей (помидоры, огурцы, болгарский перец)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1329",
+    "date": "14-11-2024",
+    "price": "65",
+    "image_url": "/upload/iblock/d5f/d5f70fa8d928eac14350797e0b70e7ad.jpeg",
+    "product_name": "Салат из свежей капусты с помидором и свежим огурцом",
+    "cat": "menu78"
+  },
+  {
+    "id": "4983",
+    "date": "14-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/f0e/f0ec7a5c4cafab0d393ba1d3c8467ca5.jpeg",
+    "product_name": "Морковные палочки",
+    "cat": "menu78"
+  },
+  {
+    "id": "1146",
+    "date": "14-11-2024",
+    "price": "10",
+    "image_url": "/upload/iblock/85c/85c20271138267c34b232915481209bf.jpeg",
+    "product_name": "Майонез \"СКИТ\" 30 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1172",
+    "date": "14-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/479/479b55985d5f359c58a927da9f2b99f8.jpeg",
+    "product_name": "Майонез \"СКИТ\" 225 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2105",
+    "date": "14-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d5b/d5b311d55b6ef6eeef666fa34dccb5f8.jpeg",
+    "product_name": "Горчица \"Русская\" 100 гр..",
+    "cat": "menu77"
+  },
+  {
+    "id": "1994",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa7/fa74f808bea9e502cc5f52915eae803f.jpeg",
+    "product_name": "Масло подсолнечное рафинированное 500 мл..",
+    "cat": "menu77"
+  },
+  {
+    "id": "5088",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/3c7/3c7e332429c39c2cf2909680acbdff6d.jpeg",
+    "product_name": "Соевый соус классический \"Sen Soy\", 250 мл.",
+    "cat": "menu77"
+  },
+  {
+    "id": "5183",
+    "date": "14-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eea/eea1104abbaa33469b054baaf8e523db.jpeg",
+    "product_name": "Кетчуп \"Heinz\" Томатный, 320 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1143",
+    "date": "14-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/681/6811831792622fa374c8f63c994670eb.jpeg",
+    "product_name": "Кекс с изюмом",
+    "cat": "menu75"
+  },
+  {
+    "id": "1410",
+    "date": "14-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/a08/a08f53e9a625cfe0cec754d88c964539.jpeg",
+    "product_name": "Блинчики с вишней и клубникой",
+    "cat": "menu75"
+  },
+  {
+    "id": "1430",
+    "date": "14-11-2024",
+    "price": "145",
+    "image_url": "/upload/iblock/63a/63ac53fc72213740f84f0fad76f7c6e6.jpeg",
+    "product_name": "Блинчики с курицей и жареным луком",
+    "cat": "menu75"
+  },
+  {
+    "id": "2230",
+    "date": "14-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/01d/01dbbcbe5cf17eb5043b8632e236a59e.jpeg",
+    "product_name": "Блинчики с горбушей, жареным луком и сливками",
+    "cat": "menu75"
+  },
+  {
+    "id": "1096",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/32c/32c8e6b4b0908d7569b6924a085d77a2.jpeg",
+    "product_name": "Кола \"Добрый\" 0,5 л,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1956",
+    "date": "14-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db5/db58b9e13206afd0424022bb120c63a8.jpeg",
+    "product_name": "Сок \"Добрый\" 0,2 л. яблоко",
+    "cat": "menu79"
+  },
+  {
+    "id": "1106",
+    "date": "14-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f5d/f5db9ac5751b7892cd08e85dd99d2548.jpeg",
+    "product_name": "Шоколад \"Алёнка\" 20 гр",
+    "cat": "menu79"
+  },
+  {
+    "id": "1114",
+    "date": "14-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/b31/b31d178b04838bcc1da153ee11325aae.jpeg",
+    "product_name": "Вилки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1119",
+    "date": "14-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/d6a/d6a7e81a85c29dab41f0b7326c17a5c9.jpeg",
+    "product_name": "Ложки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2100",
+    "date": "14-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/6eb/6eb2ecd311b43d84315dc7cb1c589139.jpeg",
+    "product_name": "Ножи, 100 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5130",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0d8/0d8608fd6b90507d01738ead6de6c277.jpeg",
+    "product_name": "Вилки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5131",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0ea/0ea96feffd7b19987c827335c6ab4ffc.jpeg",
+    "product_name": "Ложки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5132",
+    "date": "14-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9ed/9ede10ae2d863bb4aa4fea562b23d32d.jpeg",
+    "product_name": "Ножи черные, 50 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1129",
+    "date": "14-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/7d1/7d124f2e33e16f9dccc0ab97aebc90ae.jpeg",
+    "product_name": "Салфетки, 60 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "5187",
+    "date": "14-11-2024",
+    "price": "4",
+    "image_url": "/upload/iblock/1fb/1fba60a69d907c482deca20adf6098d9.jpeg",
+    "product_name": "Хлеб черный 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2108",
+    "date": "14-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/d59/d5950f48de300efc71af7e9f19450ec1.jpeg",
+    "product_name": "Хлеб черный буханка (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1128",
+    "date": "14-11-2024",
+    "price": "5",
+    "image_url": "/upload/iblock/587/5871294858e3058bedbc5fab48f0b0b5.jpeg",
+    "product_name": "Хлеб белый 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2109",
+    "date": "14-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/4eb/4ebb4a6c41912b5e79553d816b182170.jpeg",
+    "product_name": "Хлеб белый батон (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "2385",
+    "date": "15-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/e3f/e3f3fe259fa0ed9a45bc53ab83b93805.jpeg",
+    "product_name": "Суп Грибной с вермишелью (вегетарианский)",
+    "cat": "menu72"
+  },
+  {
+    "id": "1382",
+    "date": "15-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/afe/afe67d2575a17adcd7439ca7bdd6fca6.jpeg",
+    "product_name": "Суп Фасолевый с говядиной",
+    "cat": "menu72"
+  },
+  {
+    "id": "5103",
+    "date": "15-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/7b2/7b202af7ec8c5f94caad5ba8307e4428.jpeg",
+    "product_name": "Суп Сырный с курицей.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1495",
+    "date": "15-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/70d/70d74f768f78b33b63aa7cb2e40c9140.jpeg",
+    "product_name": "Щи из квашеной капусты с курицей",
+    "cat": "menu72"
+  },
+  {
+    "id": "2265",
+    "date": "15-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/fcb/fcbd5247dc8bb1a9af372b2448149de7.jpeg",
+    "product_name": "Суп Рыбный.",
+    "cat": "menu72"
+  },
+  {
+    "id": "2103",
+    "date": "15-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/3bf/3bf37a0a2c60d3f4a4c19afe81ed2ae2.jpeg",
+    "product_name": "Каша молочная манная из твердых сортов пшеницы.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1279",
+    "date": "15-11-2024",
+    "price": "35",
+    "image_url": "/upload/iblock/12e/12eaf1a3396f6f673c210f72c419e70b.jpeg",
+    "product_name": "Гренки из ржаного хлеба с чесноком.",
+    "cat": "menu72"
+  },
+  {
+    "id": "1233",
+    "date": "15-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/956/95694b815008c056b7873293b1fe57f5.jpeg",
+    "product_name": "Гуляш из Говядины (голяшка) с луком и морковью + ГРЕЧКА (мини порция).",
+    "cat": "menu74"
+  },
+  {
+    "id": "1407",
+    "date": "15-11-2024",
+    "price": "245",
+    "image_url": "/upload/iblock/241/241e789dc61255fa8463d51b058f94ef.jpeg",
+    "product_name": "Говядина в перечном соусе с болгарским перцем, зеленой фасолью и луком + Рис краснодарский.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1516",
+    "date": "15-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/2dc/2dc73c87f4a2576aa449c77c6bd3347c.jpeg",
+    "product_name": "Печень Говяжья по-строгановски в сливочном соусе + ГРЕЧКА.",
+    "cat": "menu74"
+  },
+  {
+    "id": "2677",
+    "date": "15-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/5bb/5bb63f712ae919c5448705da99b1ad56.jpeg",
+    "product_name": "Котлета \"Домашняя\" из Говядины + МАКАРОНЫ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2266",
+    "date": "15-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/7bf/7bf26a811067c015bde7df8e509d197c.jpeg",
+    "product_name": "Капуста тушеная с сосисками, ветчиной, луком и морковью.",
+    "cat": "menu74"
+  },
+  {
+    "id": "3585",
+    "date": "15-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/0da/0dadb8f2bf7b0f40a8d601ac8824dcdc.jpeg",
+    "product_name": "Картофель запеченный со свининой, луком и морковью в алюминиевом контейнере",
+    "cat": "menu74"
+  },
+  {
+    "id": "1379",
+    "date": "15-11-2024",
+    "price": "170",
+    "image_url": "/upload/iblock/4e6/4e67bef6564b211bb19a9a2c06a1ecc8.jpeg",
+    "product_name": "Биточки свиные с сыром + КАРТОФЕЛЬНОЕ ПЮРЕ.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5146",
+    "date": "15-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/75e/75ee3b6b96f797b3e1a9dfa7151c403d.jpeg",
+    "product_name": "Крылья куриные ( 4 кусочка) тушёные по-китайски + Макароны отварные.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1387",
+    "date": "15-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/e5f/e5ff7aefab302f5bbc941af1059037c4.jpeg",
+    "product_name": "Грудка куриная запеченная с помидором сыром и майонезом",
+    "cat": "menu74"
+  },
+  {
+    "id": "1450",
+    "date": "15-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/ee0/ee036a95994463693e532cebd8c38a5e.jpeg",
+    "product_name": "Грудка куриная фаршированная сыром и ветчиной жареная в сухарях",
+    "cat": "menu74"
+  },
+  {
+    "id": "5245",
+    "date": "15-11-2024",
+    "price": "175",
+    "image_url": "",
+    "product_name": "Шницель из куриной грудки + МАКАРОНЫ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2302",
+    "date": "15-11-2024",
+    "price": "180",
+    "image_url": "/upload/iblock/1bc/1bc6a679acb65101fe41f146f9973fd8.jpeg",
+    "product_name": "Котлета рубленная из Курицы + КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2277",
+    "date": "15-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/d16/d16c02610828b79e89b60c0194b56b8c.jpeg",
+    "product_name": "Курица жареная кусочками в кукурузном кляре с соусом \"Унаги\" + Рис краснодарский.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1264",
+    "date": "15-11-2024",
+    "price": "210",
+    "image_url": "/upload/iblock/ebc/ebc59cb0f710c40dc668c24ebf4502cc.jpeg",
+    "product_name": "Рис с курицей карри, яйцом, овощами и соевым соусом (лук, морковь, болгаский перец)",
+    "cat": "menu74"
+  },
+  {
+    "id": "2222",
+    "date": "15-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eba/eba1dde3b58b0c13135331de970d7993.jpeg",
+    "product_name": "Люля-Кебаб из Курицы.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5218",
+    "date": "15-11-2024",
+    "price": "140",
+    "image_url": "/upload/iblock/1f6/1f625fd6cb26c26d2c629919c6d95659.jpeg",
+    "product_name": "Котлета из Индейки (бедро) + Гречка (мини порция).",
+    "cat": "menu74"
+  },
+  {
+    "id": "1394",
+    "date": "15-11-2024",
+    "price": "195",
+    "image_url": "/upload/iblock/e94/e941d3b50fb0f5fa32c1a00ce3657eaa.jpeg",
+    "product_name": "Тефтели из Индейки в сливочном соусе + СПАГЕТТИ",
+    "cat": "menu74"
+  },
+  {
+    "id": "5204",
+    "date": "15-11-2024",
+    "price": "215",
+    "image_url": "/upload/iblock/f62/f629b807e3c6321e725a428ee64f73d9.jpeg",
+    "product_name": "Филе Горбуши под шпинатно-сливочным соусом",
+    "cat": "menu74"
+  },
+  {
+    "id": "5197",
+    "date": "15-11-2024",
+    "price": "190",
+    "image_url": "/upload/iblock/78a/78ab4036a15a2c846a2cf262703c3ffc.jpeg",
+    "product_name": "Филе Минтая запеченное с грибами, сливками и сыром",
+    "cat": "menu74"
+  },
+  {
+    "id": "5222",
+    "date": "15-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/b35/b35a1aa6fc6eeb312a734c66f4bd61cf.jpeg",
+    "product_name": "Котлета Рыбная с зеленью.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1191",
+    "date": "15-11-2024",
+    "price": "55",
+    "image_url": "/upload/iblock/cf5/cf5100db99c795b952082fb107d69d1b.jpeg",
+    "product_name": "КАРТОФЕЛЬНОЕ ПЮРЕ",
+    "cat": "menu74"
+  },
+  {
+    "id": "2324",
+    "date": "15-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/5cd/5cda3182214a2cea48db4db923b9012c.jpeg",
+    "product_name": "РИС КРАСНОДАРСКИЙ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1100",
+    "date": "15-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/db0/db088aad6c6bdbefee38ac07a473db8e.jpeg",
+    "product_name": "ГРЕЧКА",
+    "cat": "menu74"
+  },
+  {
+    "id": "1388",
+    "date": "15-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/fe5/fe56c611c057b98f4dd30c225ad95ef3.jpeg",
+    "product_name": "СПАГЕТТИ",
+    "cat": "menu74"
+  },
+  {
+    "id": "1658",
+    "date": "15-11-2024",
+    "price": "105",
+    "image_url": "/upload/iblock/591/5915b3e259168b872c676f3ac4d4ee52.jpeg",
+    "product_name": "Гречка с луком и грибами",
+    "cat": "menu74"
+  },
+  {
+    "id": "1996",
+    "date": "15-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/7f9/7f945de6f2de4f23d125c8e3ad042b5d.jpeg",
+    "product_name": "Грибной жульен завернутый в лаваш и обжаренный в яйце",
+    "cat": "menu74"
+  },
+  {
+    "id": "1743",
+    "date": "15-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/844/844454466ef4aebb9d20df7eb101b3c8.jpeg",
+    "product_name": "Фасоль зеленая, стручковая жареная с луком и морковью",
+    "cat": "menu74"
+  },
+  {
+    "id": "5224",
+    "date": "15-11-2024",
+    "price": "185",
+    "image_url": "/upload/iblock/f0d/f0dd17a2f9d1f8b7f0c06de3f074fffc.jpeg",
+    "product_name": "Цветная капуста жареная.",
+    "cat": "menu74"
+  },
+  {
+    "id": "5229",
+    "date": "15-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/02c/02c10210f279037eb86d2c332d17b6b1.jpeg",
+    "product_name": "Запеканка творожная.",
+    "cat": "menu74"
+  },
+  {
+    "id": "1141",
+    "date": "15-11-2024",
+    "price": "120",
+    "image_url": "/upload/iblock/86a/86a0eb4b2425bda66aa1c0b1a1ae14ae.jpeg",
+    "product_name": "Сырники творожные с изюмом",
+    "cat": "menu74"
+  },
+  {
+    "id": "5098",
+    "date": "15-11-2024",
+    "price": "330",
+    "image_url": "/upload/iblock/281/281c258bcac6341873e5862407271671.jpeg",
+    "product_name": "Филе Форели на пару",
+    "cat": "menu82"
+  },
+  {
+    "id": "1541",
+    "date": "15-11-2024",
+    "price": "230",
+    "image_url": "/upload/iblock/d20/d2067fe4f7e6927a4250fbcf31c176bb.jpeg",
+    "product_name": "Говядина отварная",
+    "cat": "menu82"
+  },
+  {
+    "id": "1979",
+    "date": "15-11-2024",
+    "price": "185",
+    "image_url": "/upload/iblock/174/174504c593c1e25f0ff8ba11abbc18d7.jpeg",
+    "product_name": "Ножка цыпленка отварная.",
+    "cat": "menu82"
+  },
+  {
+    "id": "5106",
+    "date": "15-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/047/047555d0b05af98e358a2f9cfe7e5908.jpeg",
+    "product_name": "Морковь с яблоком.",
+    "cat": "menu82"
+  },
+  {
+    "id": "1847",
+    "date": "15-11-2024",
+    "price": "165",
+    "image_url": "/upload/iblock/fde/fdebffcacbc146806f00602ea116a048.jpeg",
+    "product_name": "Сэндвич с ветчиной, сыром, салатным листом, маринованным огурцом, помидором,  кетчупом и майонезом",
+    "cat": "menu76"
+  },
+  {
+    "id": "1969",
+    "date": "15-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/d30/d306d92bb155cc505f8e29537009fbb1.jpeg",
+    "product_name": "Филе Сельди с отварным картофелем и сметанно-яблочным соусом с зерновой горчицей",
+    "cat": "menu76"
+  },
+  {
+    "id": "1511",
+    "date": "15-11-2024",
+    "price": "155",
+    "image_url": "/upload/iblock/28f/28f5c121ff16c5cda451607dd08eee7b.jpeg",
+    "product_name": "Салат с Индейкой, картофелем \"Пай\", морковью, салат.лист и заправкой из майонеза с зерновой горчицей",
+    "cat": "menu76"
+  },
+  {
+    "id": "1356",
+    "date": "15-11-2024",
+    "price": "135",
+    "image_url": "/upload/iblock/e16/e168bdc63afbc45cd670972081bdaf12.jpeg",
+    "product_name": "Помидоры с сыром \"Моцарелла\" и соусом \"Песто\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "2031",
+    "date": "15-11-2024",
+    "price": "115",
+    "image_url": "/upload/iblock/11f/11f96fd67025019a35c3731e070ec1b7.jpeg",
+    "product_name": "Сельдь под шубой.",
+    "cat": "menu76"
+  },
+  {
+    "id": "4447",
+    "date": "15-11-2024",
+    "price": "95",
+    "image_url": "/upload/iblock/9be/9be7e1a9baa7c241b9ce53af001fac01.jpeg",
+    "product_name": "Лечо (болгарский перец, помидоры, лук)",
+    "cat": "menu76"
+  },
+  {
+    "id": "5119",
+    "date": "15-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d70/d7000b55add3c5b4d59c796f41367774.jpeg",
+    "product_name": "Салат из свежей капусты с морковью и соусом \"Коул Слоу\"",
+    "cat": "menu76"
+  },
+  {
+    "id": "5211",
+    "date": "15-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/8b3/8b3dfc0cf16b9a80714cb574951ff43b.jpeg",
+    "product_name": "Салат из моркови, редьки \"Дайкон\" и майонеза.",
+    "cat": "menu76"
+  },
+  {
+    "id": "1680",
+    "date": "15-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/888/8888eedba46608d8333e9f7a600d76bd.jpeg",
+    "product_name": "Лобио (фасоль, лук, чеснок, кинза)",
+    "cat": "menu76"
+  },
+  {
+    "id": "4273",
+    "date": "15-11-2024",
+    "price": "175",
+    "image_url": "/upload/iblock/6e6/6e600b4c9f54e836392e96e9dc50e3fa.jpeg",
+    "product_name": "Салат \"КУРИНЫЙ\" с ананасом (курица отварная, свежий огурец, ананас, салатный лист, сыр)",
+    "cat": "menu78"
+  },
+  {
+    "id": "4903",
+    "date": "15-11-2024",
+    "price": "90",
+    "image_url": "/upload/iblock/d61/d61ed95077489df54da2234acd039aaf.jpeg",
+    "product_name": "Салат \"Крабовый\" (крабовые палочки, рис, свежий огурец, кукуруза, яйцо).",
+    "cat": "menu78"
+  },
+  {
+    "id": "1662",
+    "date": "15-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/af7/af7264bc77228ef80ba882237843419d.jpeg",
+    "product_name": "Салат из свежих овощей (помидоры, огурцы, болгарский перец, редис)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1217",
+    "date": "15-11-2024",
+    "price": "75",
+    "image_url": "/upload/iblock/420/4206a777cc0aac2e3a21056a3886ecf5.jpeg",
+    "product_name": "Овощные палочки (морковь, свежий огурец, болгарский перец, сельдерей)",
+    "cat": "menu78"
+  },
+  {
+    "id": "1402",
+    "date": "15-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/60a/60a6fdb3fc4740ebc7c44d058d3dbbef.jpeg",
+    "product_name": "Салат из свеклы",
+    "cat": "menu78"
+  },
+  {
+    "id": "1146",
+    "date": "15-11-2024",
+    "price": "10",
+    "image_url": "/upload/iblock/85c/85c20271138267c34b232915481209bf.jpeg",
+    "product_name": "Майонез \"СКИТ\" 30 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1172",
+    "date": "15-11-2024",
+    "price": "60",
+    "image_url": "/upload/iblock/479/479b55985d5f359c58a927da9f2b99f8.jpeg",
+    "product_name": "Майонез \"СКИТ\" 225 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "2105",
+    "date": "15-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/d5b/d5b311d55b6ef6eeef666fa34dccb5f8.jpeg",
+    "product_name": "Горчица \"Русская\" 100 гр..",
+    "cat": "menu77"
+  },
+  {
+    "id": "1994",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/fa7/fa74f808bea9e502cc5f52915eae803f.jpeg",
+    "product_name": "Масло подсолнечное рафинированное 500 мл..",
+    "cat": "menu77"
+  },
+  {
+    "id": "5088",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/3c7/3c7e332429c39c2cf2909680acbdff6d.jpeg",
+    "product_name": "Соевый соус классический \"Sen Soy\", 250 мл.",
+    "cat": "menu77"
+  },
+  {
+    "id": "5183",
+    "date": "15-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/eea/eea1104abbaa33469b054baaf8e523db.jpeg",
+    "product_name": "Кетчуп \"Heinz\" Томатный, 320 гр.",
+    "cat": "menu77"
+  },
+  {
+    "id": "1408",
+    "date": "15-11-2024",
+    "price": "45",
+    "image_url": "/upload/iblock/9ee/9eee723f1c3ac1354d01900c555f3cad.jpeg",
+    "product_name": "Кекс творожный",
+    "cat": "menu75"
+  },
+  {
+    "id": "1521",
+    "date": "15-11-2024",
+    "price": "110",
+    "image_url": "/upload/iblock/e04/e0416312502de4da171d62f930af9ca3.jpeg",
+    "product_name": "Блинчики со сгущеным молоком",
+    "cat": "menu75"
+  },
+  {
+    "id": "1362",
+    "date": "15-11-2024",
+    "price": "130",
+    "image_url": "/upload/iblock/282/2829432f4975b78b56f9bb859c9ba9a8.jpeg",
+    "product_name": "Блинчики с яблоком, корицей и карамелью",
+    "cat": "menu75"
+  },
+  {
+    "id": "5107",
+    "date": "15-11-2024",
+    "price": "150",
+    "image_url": "/upload/iblock/af7/af7ddfad91534c543131ca6aaa5abf72.jpeg",
+    "product_name": "Блинчики с курицей, жареным луком, грибами, сливками и сыром филадельфия",
+    "cat": "menu75"
+  },
+  {
+    "id": "1096",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/32c/32c8e6b4b0908d7569b6924a085d77a2.jpeg",
+    "product_name": "Кола \"Добрый\" 0,5 л,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1956",
+    "date": "15-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/db5/db58b9e13206afd0424022bb120c63a8.jpeg",
+    "product_name": "Сок \"Добрый\" 0,2 л. яблоко",
+    "cat": "menu79"
+  },
+  {
+    "id": "5074",
+    "date": "15-11-2024",
+    "price": "70",
+    "image_url": "/upload/iblock/9b2/9b2996298b2c1dfd3f31871acfb32686.jpeg",
+    "product_name": "Соль, 180 гр.",
+    "cat": "menu79"
+  },
+  {
+    "id": "1106",
+    "date": "15-11-2024",
+    "price": "50",
+    "image_url": "/upload/iblock/f5d/f5db9ac5751b7892cd08e85dd99d2548.jpeg",
+    "product_name": "Шоколад \"Алёнка\" 20 гр",
+    "cat": "menu79"
+  },
+  {
+    "id": "1114",
+    "date": "15-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/b31/b31d178b04838bcc1da153ee11325aae.jpeg",
+    "product_name": "Вилки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1119",
+    "date": "15-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/d6a/d6a7e81a85c29dab41f0b7326c17a5c9.jpeg",
+    "product_name": "Ложки, 100 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2100",
+    "date": "15-11-2024",
+    "price": "200",
+    "image_url": "/upload/iblock/6eb/6eb2ecd311b43d84315dc7cb1c589139.jpeg",
+    "product_name": "Ножи, 100 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5130",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0d8/0d8608fd6b90507d01738ead6de6c277.jpeg",
+    "product_name": "Вилки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5131",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/0ea/0ea96feffd7b19987c827335c6ab4ffc.jpeg",
+    "product_name": "Ложки черные, 50 шт,.",
+    "cat": "menu79"
+  },
+  {
+    "id": "5132",
+    "date": "15-11-2024",
+    "price": "100",
+    "image_url": "/upload/iblock/9ed/9ede10ae2d863bb4aa4fea562b23d32d.jpeg",
+    "product_name": "Ножи черные, 50 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "1129",
+    "date": "15-11-2024",
+    "price": "25",
+    "image_url": "/upload/iblock/7d1/7d124f2e33e16f9dccc0ab97aebc90ae.jpeg",
+    "product_name": "Салфетки, 60 шт,",
+    "cat": "menu79"
+  },
+  {
+    "id": "5187",
+    "date": "15-11-2024",
+    "price": "4",
+    "image_url": "/upload/iblock/1fb/1fba60a69d907c482deca20adf6098d9.jpeg",
+    "product_name": "Хлеб черный 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2108",
+    "date": "15-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/d59/d5950f48de300efc71af7e9f19450ec1.jpeg",
+    "product_name": "Хлеб черный буханка (нарезанный).",
+    "cat": "menu79"
+  },
+  {
+    "id": "1128",
+    "date": "15-11-2024",
+    "price": "5",
+    "image_url": "/upload/iblock/587/5871294858e3058bedbc5fab48f0b0b5.jpeg",
+    "product_name": "Хлеб белый 1к.,",
+    "cat": "menu79"
+  },
+  {
+    "id": "2109",
+    "date": "15-11-2024",
+    "price": "40",
+    "image_url": "/upload/iblock/4eb/4ebb4a6c41912b5e79553d816b182170.jpeg",
+    "product_name": "Хлеб белый батон (нарезанный).",
+    "cat": "menu79"
+  }
+]

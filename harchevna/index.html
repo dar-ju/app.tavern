@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Харчевня</title>
+  <script defer src="./js/main.js"></script>
+  <script src="./js/gsap.min.js"></script>
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="shortcut icon" href="./img/icon.png" type="image/x-icon">
+</head>
+
+<body>
+  <div class="header">
+    <div class="header__wrapper container">
+      <a class="header__logo" href="/">
+        <img class="header__logo-img" src="./img/logo.png" alt="">
+      </a>
+      <div class="header__info">
+        <p class="header__warning">Прием заказов до 11-40</p>
+        <p class="header__kormilec">Отец-Кормилец: +7(123)456-78-90 (сбер/тинкофф)</p>
+        <div class="header__qr-container">
+          <figure>
+            <img class="header__qr" src="./img/qr_sber.png" alt="qr сбер">
+            <figcaption>Оплатить Сбер</figcaption>
+          </figure>
+          <figure>
+            <img class="header__qr" src="./img/qr_tink.png" alt="qr тиньк">
+            <figcaption>Оплатить Тиньк</figcaption>
+          </figure>
+        </div>
+      </div>
+      <div class="calendar">
+        <table id="calendar">
+          <thead>
+            <tr>
+              <td><b>‹</b>
+              <td colspan="5">
+              <td><b>›</b>
+            <tr class="dn">
+              <td>Пн
+              <td>Вт
+              <td>Ср
+              <td>Чт
+              <td>Пт
+              <td>Сб
+              <td>Вс
+          </thead>
+          <tbody class="calendar__list"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="container">
+      <div class="adv">
+        <div class="adv__note"></div>
+        <div class="adv__block">
+          <p class="adv__info-text"></p>
+        </div>
+      </div>
+      <div class="menu">
+        <div class="menu__hello">
+          <h1>Прив! Хочешь есть?</h1>
+          <p>Напиши мне, я знаю как:</p>
+          <a href="mailto:mymail@mymail.ru">mymail@mymail.ru</a>
+        </div>
+        <div class="adm-panel">
+          <div class="block">
+            <h2 class="subtitle">Что поназаказывали</h2>
+            <label for="oday">Дата заказа:</label>
+            <input type="date" id="orderDateAdmin" name="oday" />
+            <div class="adm-panel__order-block">
+              <p class="adm-panel__order-summ"></p>
+              <button class="adm-panel__order-copy">Скопировать количества</button>
+            </div>
+            <div class="adm-panel__order-wrapper">
+              <div class="adm-panel__order-by adm-panel__order-by_meal">
+              </div>
+              <div class="adm-panel__order-by adm-panel__order-by_quant">
+              </div>
+              <div class="adm-panel__order-by adm-panel__order-by_users">
+              </div>
+            </div>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Добавить юзера</h2>
+            <form name="userForm" class="user-form">
+              <input type="hidden" name="id" value="0" />
+              <p>
+                <label>Логин:</label><br>
+                <input name="login" />
+              </p>
+              <p>
+                <label>Имя:</label><br>
+                <input name="name" />
+              </p>
+              <p>
+                <button id="submitBtn" type="submit">Сохранить</button>
+                <button id="resetBtn">Сбросить</button>
+              </p>
+            </form>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Юзеры</h2>
+            <table>
+              <thead>
+                <tr>
+                  <th>№</th>
+                  <th>Логин</th>
+                  <th>Имя</th>
+                  <th>Ссыль юзера</th>
+                  <th></th>
+                  <th>Должен</th>
+                  <th>АДМИНСКАЯ ссыль</th>
+                </tr>
+              </thead>
+              <tbody class="adm-panel__users-list"></tbody>
+            </table>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Максимальное время заказа</h2>
+            <form name="optionsForm" class="user-form">
+              <input type="hidden" name="time" value="0" />
+              <p>
+                <label>Время (ЧЧ-ММ):</label><br>
+                <input class="adm-panel__time-input" name="time" />
+              </p>
+              <p>
+                <button id="submitTimeBtn" type="submit">Сохранить</button>
+              </p>
+            </form>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Топик</h2>
+            <form name="topicStarter">
+              <p class="adm-panel__current-phrase"></p>
+              <textarea id="topicText" name="topicText" rows="5" cols="33"></textarea>
+              <button>Сохранить</button>
+            </form>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Текст рекламы</h2>
+            <form name="advAdminForm">
+              <p class="current-advText"></p>
+              <textarea id="advText" name="advText" rows="5" cols="33"></textarea>
+              <button>Сохранить</button>
+            </form>
+          </div>
+          <div class="block">
+            <h2 class="subtitle">Операции</h2>
+            <form name="parseForm">
+              <button class="adm-parse-btn">Спарсить меню на 10 дней</button>
+            </form>
+            <form name="clearRecomend">
+              <button>Очистить все рекомендации</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="order">
+        <div class="order__wrapper">
+          <div class="order__result">
+            <span class="order__total-text">Итого</span>
+            <span class="order__total-rub"></span>
+          </div>
+          <button class="btn-main order__btn">ЗАКАЗАТЬ</button>
+          <div class="order__debt">
+            <span class="order__debt-summ"></span>
+            <button class="btn-main order__debt-pay">Я всё оплатил(а)</button>
+          </div>
+        </div>
+      </div>
+      <button class="scroll">ВВЕРХ</button>
+      <div class="dialog">
+        <div class="dialog__wrapper">
+          <p class="dialog__topic"></p>
+          <form name="chatForm" class="dialog__chat-form">
+            <textarea type="text" class="dialog__chat-input" name="chatInput" maxlength="200"></textarea>
+            <button id="chatConfirmBtn" class="btn-main dialog__btn-chat">Запостить</button>
+          </form>
+          <p class="dialog__title"></p>
+          <div class="dialog__chat"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="pig-bottom"></div>
+</body>
+
+</html>
